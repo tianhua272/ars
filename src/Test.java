@@ -7,6 +7,7 @@ public class Test {
         heros.add("me");
         heros.add("amd yes");
         System.out.println(heros.size());
+        System.out.println(heros.size());
 
     }
 
